@@ -30,3 +30,7 @@ https://arxiv.org/abs/1808.07036
 
 SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference
 https://arxiv.org/abs/1808.05326
+
+Looking Beyond the Surface:
+A Challenge Set for Reading Comprehension over Multiple Sentences
+http://cogcomp.org/papers/2018-MultiRC-NAACL.pdf
